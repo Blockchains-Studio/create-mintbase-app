@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   })
 
   return (
-    <WalletProvider apiKey={process.env.NEXT_PUBLIC_MINTBASEJS_API_KEY || ''}>
+    <WalletProvider apiKey={process.env.NEXT_PUBLIC_MINTBASEJS_API_KEY || 'de2a56b5-a913-48f7-86c9-f2676eb0d155'}>
       <ApolloProvider client={apolloClient}>
         <Component {...pageProps} />
       </ApolloProvider>

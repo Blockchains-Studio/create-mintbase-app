@@ -81,7 +81,7 @@ const Minter = () => {
       >
         <div className="mb-4">
           <h1 className="font-semibold mb-2 text-xl leading-tight sm:leading-normal">
-            Simple Minter
+            Simple Minter NFT In Mintbase
           </h1>
         </div>
         <div className="mb-4">
