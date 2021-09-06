@@ -1,15 +1,19 @@
 # Blockchain Studio ID Simple Minter NFT in Mintbase using Near Protocol
 
+![sample app](https://user-images.githubusercontent.com/76843145/132250635-0d6bdbe8-a4b1-4f22-aa4c-40c974d0540a.png)
 
 
 ## Getting Started
 
-First, run the development server:
+First, clone repo and run the development server:
 
 ```bash
-npm run dev
+git clone https://github.com/Blockchains-Studio/create-mintbase-app.git
+cd repo
+npm install
 # or
-yarn dev
+yarn
+then run development : yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
